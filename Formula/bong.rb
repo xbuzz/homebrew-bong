@@ -1,8 +1,8 @@
 class Bong < Formula
   desc "Watch a CI/CD pipeline. Ding when done."
   homepage "https://github.com/xbuzz/bong"
-  url "https://github.com/xbuzz/bong/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "96256f26d8df7f9baf0513608f846e94ff0357b7936b1f8cd0dea7418a9989bc"
+  url "https://github.com/xbuzz/bong/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "d348e7ab3703afea05b095dd0ec0e5274d8c9f701bb482eec7b85dac3a8e5c98"
   license "MIT"
 
   depends_on "glab"
